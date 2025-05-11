@@ -5,7 +5,7 @@
 | Dataset                | Baidu/GDrive Links                                                                        | Kaggle Link                                                                                   |
 |------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | CASIA-Webface          | [Baidu](https://pan.baidu.com/s/1AfHdPsxJZBD8kBJeIhmq1w) \| [GDrive](https://drive...)    | [Kaggle](https://www.kaggle.com/datasets/kairin1982/casia-webface-10k-ids-0-5m-images)       |
-| UMDFace                | [Baidu](https://pan.baidu.com/s/1aGutJwNWpV-lA0f_7eNsGQ) \| [GDrive](https://drive...)    | <!-- No Kaggle link available -->                                                            |
+| UMDFace                | [Baidu](https://pan.baidu.com/s/1aGutJwNWpV-lA0f_7eNsGQ) \| [GDrive](https://drive...)    | [Kaggle](https://www.kaggle.com/datasets/kairin1982/umdface-8k-ids-0-37m-images)                                                         |
 | VGG2                   | [Baidu](https://pan.baidu.com/s/1c3KeLzy) \| [GDrive](https://drive...)                   | <!-- No Kaggle link available -->                                                            |
 | MS1M-IBUG              | [Baidu](https://pan.baidu.com/s/1nxmSCch)                                                | <!-- No Kaggle link available -->                                                            |
 | MS1M-ArcFace           | [Baidu](https://pan.baidu.com/s/1S6LJZGdqcZRle1vlcMzHOQ) \| [GDrive](https://drive...)    | <!-- No Kaggle link available -->                                                            |
