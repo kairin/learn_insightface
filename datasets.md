@@ -2,48 +2,48 @@
 
 ## Training Datasets
 
-| Dataset                | Links                                                                                 |
-|------------------------|---------------------------------------------------------------------------------------|
-| CASIA-Webface          | [Kaggle](https://www.kaggle.com/datasets/kairin1982/casia-webface-10k-ids-0-5m-images) \| [Baidu](https://pan.baidu.com/s/1AfHdPsxJZBD8kBJeIhmq1w) \| [GDrive](https://drive.google.com/file/d/1KxNCrXzln0lal3N4JiYl9cFOIhT78y1l/view?usp=sharing) |
-| UMDFace                | [Baidu](https://pan.baidu.com/s/1aGutJwNWpV-lA0f_7eNsGQ) \| [GDrive](https://drive.google.com/file/d/1azhEHoJjVmifuzBVKJwl-sDbLZ-Wzp4O/view?usp=sharing) |
-| VGG2                   | [Baidu](https://pan.baidu.com/s/1c3KeLzy) \| [GDrive](https://drive.google.com/file/d/1dyVQ7X3d28eAcjV3s3o0MT-HyODp_v3R/view?usp=sharing) |
-| MS1M-IBUG              | [Baidu](https://pan.baidu.com/s/1nxmSCch)                                             |
-| MS1M-ArcFace           | [Baidu](https://pan.baidu.com/s/1S6LJZGdqcZRle1vlcMzHOQ) \| [GDrive](https://drive.google.com/file/d/1SXS4-Am3bsKSK615qbYdbA_FMVh3sAvR/view?usp=sharing) |
-| MS1M-RetinaFace        | [Baidu](https://pan.baidu.com/s/1RBnaW88PC6cKqtYwgfVX8Q) (code: 8eb3) \| [GDrive](https://drive.google.com/file/d/1JgmzL9OLTqDAZE86pBgETtSQL4USKTFy/view?usp=sharing) |
-| Asian-Celeb            | [Baidu](https://pan.baidu.com/s/12wSgofDy1flFf6lOyAxJRg)                              |
-| Glint360K              | [Baidu](https://pan.baidu.com/s/1GsYqTTt7_Dn8BfxxsLFN0w) (code: o3az) \| Magnet URI: `magnet:?xt=urn:btih:E5F46EE502B9E76DA8CC3A0E4F7C17E4000C7B1E&dn=glint360k` |
-| Glint-Mini             | [Baidu](https://pan.baidu.com/s/10IzEyP-Z9dWFcxxj9jdJpQ) (code: 10m5)                 |
-| DeepGlint              | [Baidu](https://pan.baidu.com/s/1yApUbklBgRgOyOV4o3J8Eg)                              |
-| WebFace260M            | [Face Benchmark](https://www.face-benchmark.org/download.html)                        |
-| MegaFace (train)       | [Baidu](https://pan.baidu.com/s/1uy366DjUiGc3AvhuamRLyw) (code: 5f8m) \| [GDrive](https://drive.google.com/file/d/1O4FxijSXoEIe6fLfOocqF4VFMh5B4d89/view?usp=sharing) |
-| DigiFace-1M            | [Website](https://microsoft.github.io/DigiFace1M/) \| [GitHub](https://github.com/microsoft/DigiFace1M) |
+| Dataset                | Baidu/GDrive Links                                                                        | Kaggle Link                                                                                   |
+|------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| CASIA-Webface          | [Baidu](https://pan.baidu.com/s/1AfHdPsxJZBD8kBJeIhmq1w) \| [GDrive](https://drive...)    | [Kaggle](https://www.kaggle.com/datasets/kairin1982/casia-webface-10k-ids-0-5m-images)       |
+| UMDFace                | [Baidu](https://pan.baidu.com/s/1aGutJwNWpV-lA0f_7eNsGQ) \| [GDrive](https://drive...)    | <!-- No Kaggle link available -->                                                            |
+| VGG2                   | [Baidu](https://pan.baidu.com/s/1c3KeLzy) \| [GDrive](https://drive...)                   | <!-- No Kaggle link available -->                                                            |
+| MS1M-IBUG              | [Baidu](https://pan.baidu.com/s/1nxmSCch)                                                | <!-- No Kaggle link available -->                                                            |
+| MS1M-ArcFace           | [Baidu](https://pan.baidu.com/s/1S6LJZGdqcZRle1vlcMzHOQ) \| [GDrive](https://drive...)    | <!-- No Kaggle link available -->                                                            |
+| MS1M-RetinaFace        | [Baidu](https://pan.baidu.com/s/1RBnaW88PC6cKqtYwgfVX8Q) \| [GDrive](https://drive...)    | <!-- No Kaggle link available -->                                                            |
+| Asian-Celeb            | [Baidu](https://pan.baidu.com/s/12wSgofDy1flFf6lOyAxJRg)                                  | <!-- No Kaggle link available -->                                                            |
+| Glint360K              | [Baidu](https://pan.baidu.com/s/1GsYqTTt7_Dn8BfxxsLFN0w) (code: o3az)                     | <!-- No Kaggle link available -->                                                            |
+| Glint-Mini             | [Baidu](https://pan.baidu.com/s/10IzEyP-Z9dWFcxxj9jdJpQ) (code: 10m5)                     | <!-- No Kaggle link available -->                                                            |
+| DeepGlint              | [Baidu](https://pan.baidu.com/s/1yApUbklBgRgOyOV4o3J8Eg)                                  | <!-- No Kaggle link available -->                                                            |
+| WebFace260M            | [Face Benchmark](https://www.face-benchmark.org/download.html)                           | <!-- No Kaggle link available -->                                                            |
+| MegaFace (train)       | [Baidu](https://pan.baidu.com/s/1uy366DjUiGc3AvhuamRLyw) \| [GDrive](https://drive...)    | <!-- No Kaggle link available -->                                                            |
+| DigiFace-1M            | [Website](https://microsoft.github.io/DigiFace1M/) \| [GitHub](https://github.com/...)   | <!-- No Kaggle link available -->                                                            |
 
 ## Validation Datasets
 
-| Dataset                | Links                                                                                 |
-|------------------------|---------------------------------------------------------------------------------------|
-| CFP-FP                 |                                                                                       |
-| AgeDB-30               |                                                                                       |
-| LFW                    |                                                                                       |
-| CALFW                  |                                                                                       |
-| CPLFW                  |                                                                                       |
+| Dataset                | Baidu/GDrive Links                                                                        | Kaggle Link                                                                                   |
+|------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| CFP-FP                 | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
+| AgeDB-30               | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
+| LFW                    | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
+| CALFW                  | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
+| CPLFW                  | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
 
 ## Image Test Datasets
 
-| Dataset                | Links                                                                                 |
-|------------------------|---------------------------------------------------------------------------------------|
-| MegaFace               | [GDrive](https://drive.google.com/file/d/1KBwp0U9oZgZj7SYDXRxUnnH7Lwvd9XMy/view?usp=sharing) |
-| IJB (IJB-B, IJB-C)     | [GDrive](https://drive.google.com/file/d/1aC4zf2Bn0xCVH_ZtEuQipR2JvRb1bf8o/view?usp=sharing) |
+| Dataset                | Baidu/GDrive Links                                                                        | Kaggle Link                                                                                   |
+|------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| MegaFace               | [GDrive](https://drive.google.com/file/d/1KBwp0U9oZgZj7SYDXRxUnnH7Lwvd9XMy/view?usp=sharing)| <!-- No Kaggle link available -->                                                            |
+| IJB (IJB-B, IJB-C)     | [GDrive](https://drive.google.com/file/d/1aC4zf2Bn0xCVH_ZtEuQipR2JvRb1bf8o/view?usp=sharing)| <!-- No Kaggle link available -->                                                            |
 
 ## Video Test Datasets
 
-| Dataset                | Links                                                                                 |
-|------------------------|---------------------------------------------------------------------------------------|
-| YTF                    |                                                                                       |
-| IQIYI                  |                                                                                       |
+| Dataset                | Baidu/GDrive Links                                                                        | Kaggle Link                                                                                   |
+|------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| YTF                    | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
+| IQIYI                  | <!-- No Baidu/GDrive links available -->                                                  | <!-- No Kaggle link available -->                                                            |
 
 ## References
 
-| Topic                  | Links                                                                                 |
-|------------------------|---------------------------------------------------------------------------------------|
-| InsightFace Datasets   | [DeepInsight GitHub](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_#celeba-10k-ids02m-images-2) |
+| Topic                  | Baidu/GDrive Links                                                                        | Kaggle Link                                                                                   |
+|------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| InsightFace Datasets   | [DeepInsight GitHub](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_#celeba-10k-ids02m-images-2)| <!-- No Kaggle link available -->                                                            |
