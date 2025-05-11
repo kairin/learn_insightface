@@ -1,8 +1,8 @@
 # Face Recognition Datasets
 
-## Training Datasets (Updating)
+## Training Datasets (Updating with my own versions of the datasets where i am not able to access the baidu urls.)
 
-### CASIA-Webface (10K ids/0.5M images) [1]
+### CASIA-Webface (10K ids/0.5M images) [1 - https://www.kaggle.com/datasets/kairin1982/casia-webface-10k-ids-0-5m-images]
 
 [Baidu](https://pan.baidu.com/s/1AfHdPsxJZBD8kBJeIhmq1w)
 
