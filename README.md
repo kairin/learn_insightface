@@ -3,7 +3,7 @@
 from their recent release: https://github.com/deepinsight/inswapper-512-live
 
 
-###Evaluation Metric Explanation:
+> ### Evaluation Metric Explanation:
 > __Similarity__: The similarity between the generated face and the source face is evaluated using a third-party, high-precision face recognition model. The similarity score is calculated using the cosine similarity between the feature embeddings of the source and output images, scaled to a range of 0-100, where higher scores indicate greater similarity;
 
 > __Realism__: This metric evaluates the realism and clarity of the generated face. We employ a comprehensive evaluation framework that combines the FID score, custom-designed metrics for facial clarity, and human perceptual evaluation. The score ranges from 0 to 100, with higher scores indicating a more realistic and clear result. We used a test set consisting of hundreds of high-resolution facial images, and randomly resized between 160x160 and 640x640 pixels in testing time;
